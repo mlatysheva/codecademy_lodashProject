@@ -1,4 +1,4 @@
-##Lodash Project
+## Lodash Project
 
 This is a part of the [codecademy.com] (https://www.codecademy.com) **Full-Stack Engineer path**.
 In this project, we implemented some of the functionality from the widely-popular `lodash.js` library.
